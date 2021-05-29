@@ -1,4 +1,4 @@
-# NotesApp
+# Take Notes App
 A note-taking app which uses Room database features in android studio to store and manage the notes and Recycler View to show and scroll the saved notes.
 
 # App run Demo
